@@ -20,9 +20,6 @@ interessado em sistemas e experiências visuais.
 também sou engenheiro da computação,  
 montando projetos embarcados com firmware de baixo nível.
 
-busco cores, texturas, histórias  
-e projetos tácteis feitos à mão.
-
 ## ✦ trabalhando em
 - 🎮 gamedev, sistemas e protótipos  
 - 🖥 programação gráfica  
